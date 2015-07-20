@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Moneybook</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="today_title">오늘 사용 내역</string>
+    <string name="today_tab">오늘 사용 내역</string>
+    <string name="setting_tab">설정</string>
+    <string name="find_tab">찾기</string>
+    <string name="title_activity_add">내용 추가하기</string>
+    <string name="title_activity_type">사용내역 추가하기</string>
+    <string name="activity_add_contents">사용처</string>
+    <string name="activity_add_amount">금액</string>
+    <string name="activity_type_add">추가하기</string>
+    <string name="title_activity_add_type">AddTypeActivity</string>
+
+    <string name="fragment_delete_confirm_dialog_message">삭제하시겠습니까?</string>
+    <string name="fragment_delete_confirm_dialog_cancel">아니요</string>
+    <string name="fragment_delete_confirm_dialog_delete">네</string>
+    <string name="title_activity_item">ItemActivity</string>
+</resources>
